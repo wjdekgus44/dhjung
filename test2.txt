@@ -1,6 +1,4 @@
 이것은 두번째 파일이다.
-<<<<<<< HEAD
 
 ->branch_dhjung2 수정하였음.
-=======
->>>>>>> branch_dhjung1
+->Modified merging error!
