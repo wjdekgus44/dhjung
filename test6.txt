@@ -1,1 +1,0 @@
-master가 test5.txt 파일을 생성함.
